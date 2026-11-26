@@ -1,3 +1,2 @@
 # ai-programming-test
-테스트 합니다
-
+2026100177 전동혁
