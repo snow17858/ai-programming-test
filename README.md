@@ -1,5 +1,3 @@
 # ai-programming-test
-안녕
-테스트
+테스트 합니다
 
-헬로
