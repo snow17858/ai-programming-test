@@ -1,3 +1,3 @@
 import pandas as pd
 df = pd.read_csv("./scores_2026.csv")
-print(df["점수"].isna().sum())
+print(df["점수"].describe() )
